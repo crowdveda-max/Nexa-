@@ -1,0 +1,8 @@
+{
+  "name": "Nexa Hospital Lucknow",
+  "description": "Nexa Hospital - 24x7 Multi-Speciality Hospital & Trauma Centre in Gomti Nagar, Lucknow. Rated 4.9★ with emergency care, ICU, modular OT, OPD appointments & cashless insurance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
